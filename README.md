@@ -5,3 +5,4 @@ This html page which resumepag2 has all the semantics of html .like header navig
 Where i have given lorem information 
 At the footer i have given link to another page.
 This page contains Qualification table.
+link: https://swaatipandey.github.io/my_resume/
